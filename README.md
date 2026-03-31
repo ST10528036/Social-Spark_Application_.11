@@ -12,3 +12,6 @@ The design was made to form a simple text field where the user enters the period
 The app looks at the word entered and matches it to a specific category of social interaction.
 The app the updates the screen with a specific "Social Spark" fitted to that moment.
 I integrated GitHub to manage my code versions, ensuring every update is tracked and automatically tested.
+
+App explanation video:
+https://youtu.be/Yr5rfiLI8y8
